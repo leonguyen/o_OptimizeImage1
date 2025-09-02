@@ -1,0 +1,10 @@
+{
+  "tinypng": {
+    "keys": ["5fdcbz4wF5dwJPyvKkypc1JqKsBDrCrS"],
+    "currentIndex": 0,
+    "rateLimits": {
+      "monthly": 500,
+      "used": {}
+    }
+  }
+}
